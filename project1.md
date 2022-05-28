@@ -35,6 +35,31 @@
 
 ![status update](images/status.png)
 
+### This is green which makes me to understand that I have install everything correctly 
+
+### I go further to enable my port 80 to connect from the internet
+
+![Port 80 enable](images/port.png)
+
+## First, I check locally using my MobaXterm for successful html display using the comman below
+
+` curl http://localhost:80
+or
+ curl http://127.0.0.1:80`
+
+ ### The result display below
+
+ ![display](images/display.png)
+
+ ### I use my ubuntu public DNS and IP to check web display to confirm my apache 
+
+ `ec2-18-205-19-147.compute-1.amazonaws.com`
+
+ ![web display](images/web.png)
+
+
+
+
 
 
 
