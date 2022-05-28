@@ -57,6 +57,57 @@ or
 
  ![web display](images/web.png)
 
+ ## STEP 2 — INSTALLING MYSQL
+
+ ### After the completion of my step one, I install MySQL database below are my codes and screen shot
+## My Code 
+ `sudo apt install mysql-server`
+
+## Screenshot
+
+![Install MySql](images/mysqlinstall.png)
+
+## login to MySql 
+
+`sudo mysql`
+
+![MySql Login](images/sqllogin.png)
+
+## MySQL Secure Installation
+
+`sudo mysql_secure_installation`
+
+![MySql Secure](images/sqlsecure.png)
+
+## MySql Validation
+
+![MySql Validation](images/validation.png)
+
+
+## Test to be able to log in to the MySQL console by typing
+` sudo mysql -p`
+
+![MySql Test](images/sqltest.png)
+
+## STEP 3 — INSTALLING PHP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
